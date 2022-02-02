@@ -1,0 +1,250 @@
+﻿Image,Name,Item ID,Legacy Item ID,Numerical ID
+,Air,minecraft:air,,
+,Stone,minecraft:stone,1,
+,Smooth Stone Slab,minecraft:smooth_stone_slab,,
+,Granite,minecraft:granite,minecraft:stone,1:1
+,Polished Granite,minecraft:polished_granite,minecraft:stone,1:2
+,Diorite,minecraft:diorite,minecraft:stone,1:3
+,Polished Diorite,minecraft:polished_diorite,minecraft:stone,1:4
+,Andesite,minecraft:andesite,minecraft:stone,1:5
+,Polished Andesite,minecraft:polished_andesite,minecraft:stone,1:6
+,Grass Block,minecraft:grass_block,minecraft:grass,2
+,Dirt,minecraft:dirt,3,
+,Coarse Dirt,minecraft:coarse_dirt,minecraft:dirt,3:1
+,Podzol,minecraft:podzol,minecraft:dirt,3:2
+,Cobblestone,minecraft:cobblestone,4,
+,Oak Planks,minecraft:oak_planks,minecraft:planks,5
+,Spruce Planks,minecraft:spruce_planks,minecraft:planks,5:1
+,Birch Planks,minecraft:birch_planks,minecraft:planks,5:2
+,Jungle Planks,minecraft:jungle_planks,minecraft:planks,5:3
+,Acacia Planks,minecraft:acacia_planks,minecraft:planks,5:4
+,Dark Oak Planks,minecraft:dark_oak_planks,minecraft:planks,5:5
+,Oak Sapling,minecraft:oak_sapling,minecraft:sapling,6
+,Spruce Sapling,minecraft:spruce_sapling,minecraft:sapling,6:1
+,Birch Sapling,minecraft:birch_sapling,minecraft:sapling,6:2
+,Jungle Sapling,minecraft:jungle_sapling,minecraft:sapling,6:3
+,Acacia Sapling,minecraft:acacia_sapling,minecraft:sapling,6:4
+,Dark Oak Sapling,minecraft:dark_oak_sapling,minecraft:sapling,6:5
+,Bedrock,minecraft:bedrock,7,
+,Sand,minecraft:sand,12,
+,Red Sand,minecraft:red_sand,minecraft:sand,12:1
+,Gravel,minecraft:gravel,13,
+,Gold Ore,minecraft:gold_ore,14,
+,Iron Ore,minecraft:iron_ore,15,
+,Coal Ore,minecraft:coal_ore,16,
+,Oak Log,minecraft:oak_log,minecraft:log,17
+,Spruce Log,minecraft:spruce_log,minecraft:log,17:1
+,Birch Log,minecraft:birch_log,minecraft:log,17:2
+,Jungle Log,minecraft:jungle_log,minecraft:log,17:3
+,Acacia Log,minecraft:acacia_log,minecraft:log2,162
+,Dark Oak Log,minecraft:dark_oak_log,minecraft:log2,162:1
+,Stripped Oak Log,minecraft:stripped_oak_log,,
+,Stripped Spruce Log,minecraft:stripped_spruce_log,,
+,Stripped Birch Log,minecraft:stripped_birch_log,,
+,Stripped Jungle Log,minecraft:stripped_jungle_log,,
+,Stripped Acacia Log,minecraft:stripped_acacia_log,,
+,Stripped Dark Oak Log,minecraft:stripped_dark_oak_log,,
+,Stripped Oak Wood,minecraft:stripped_oak_wood,minecraft:stripped_oak_bark,
+,Stripped Spruce Wood,minecraft:stripped_spruce_wood,minecraft:stripped_spruce_bark,
+,Stripped Birch Wood,minecraft:stripped_birch_wood,minecraft:stripped_birch_bark,
+,Stripped Jungle Wood,minecraft:stripped_jungle_wood,minecraft:stripped_jungle_bark,
+,Stripped Acacia Wood,minecraft:stripped_acacia_wood,minecraft:stripped_acacia_bark,
+,Stripped Dark Oak Wood,minecraft:stripped_dark_oak_wood,minecraft:stripped_dark_oak_bark,
+,Oak Wood,minecraft:oak_wood,minecraft:oak_bark,
+,Spruce Wood,minecraft:spruce_wood,minecraft:spruce_bark,
+,Birch Wood,minecraft:birch_wood,minecraft:birch_bark,
+,Jungle Wood,minecraft:jungle_wood,minecraft:jungle_bark,
+,Acacia Wood,minecraft:acacia_wood,minecraft:acacia_bark,
+,Dark Oak Wood,minecraft:dark_oak_wood,minecraft:dark_oak_bark,
+,Oak Leaves,minecraft:oak_leaves,minecraft:leaves,18
+,Spruce Leaves,minecraft:spruce_leaves,minecraft:leaves,18:1
+,Birch Leaves,minecraft:birch_leaves,minecraft:leaves,18:2
+,Jungle Leaves,minecraft:jungle_leaves,minecraft:leaves,18:3
+,Acacia Leaves,minecraft:acacia_leaves,minecraft:leaves2,161
+,Dark Oak Leaves,minecraft:dark_oak_leaves,minecraft:leaves2,161:1
+,Sponge,minecraft:sponge,19,
+,Wet Sponge,minecraft:wet_sponge,minecraft:sponge,19:1
+,Glass,minecraft:glass,20,
+,Lapis Lazuli Ore,minecraft:lapis_ore,21,
+,Lapis Lazuli Block,minecraft:lapis_block,22,
+,Dispenser,minecraft:dispenser,23,
+,Sandstone,minecraft:sandstone,24,
+,Chiseled Sandstone,minecraft:chiseled_sandstone,minecraft:sandstone,24:1
+,Cut Sandstone,minecraft:cut_sandstone,minecraft:sandstone,24:2
+,Note Block,minecraft:note_block,minecraft:noteblock,25
+,Powered Rail,minecraft:powered_rail,minecraft:golden_rail,27
+,Detector Rail,minecraft:detector_rail,28,
+,Sticky Piston,minecraft:sticky_piston,29,
+,Cobweb,minecraft:cobweb,30,
+,Grass,minecraft:grass,,
+,Fern,minecraft:fern,minecraft:tallgrass,31:2
+,Dead Bush,minecraft:dead_bush,minecraft:deadbush,32
+,Seagrass,minecraft:seagrass,,
+,Sea Pickle,minecraft:sea_pickle,,
+,Piston,minecraft:piston,33,
+,White Wool,minecraft:white_wool,minecraft:wool,35
+,Orange Wool,minecraft:orange_wool,minecraft:wool,35:1
+,Magenta Wool,minecraft:magenta_wool,minecraft:wool,35:2
+,Light Blue Wool,minecraft:light_blue_wool,minecraft:wool,35:3
+,Yellow Wool,minecraft:yellow_wool,minecraft:wool,35:4
+,Lime Wool,minecraft:lime_wool,minecraft:wool,35:5
+,Pink Wool,minecraft:pink_wool,minecraft:wool,35:6
+,Gray Wool,minecraft:gray_wool,minecraft:wool,35:7
+,Light Gray Wool,minecraft:light_gray_wool,minecraft:wool,35:8
+,Cyan Wool,minecraft:cyan_wool,minecraft:wool,35:9
+,Purple Wool,minecraft:purple_wool,minecraft:wool,35:10
+,Blue Wool,minecraft:blue_wool,minecraft:wool,35:11
+,Brown Wool,minecraft:brown_wool,minecraft:wool,35:12
+,Green Wool,minecraft:green_wool,minecraft:wool,35:13
+,Red Wool,minecraft:red_wool,minecraft:wool,35:14
+,Black Wool,minecraft:black_wool,minecraft:wool,35:15
+,Dandelion,minecraft:dandelion,minecraft:yellow_flower,37
+,Poppy,minecraft:poppy,minecraft:red_flower,38
+,Blue Orchid,minecraft:blue_orchid,minecraft:red_flower,38:1
+,Allium,minecraft:allium,minecraft:red_flower,38:2
+,Azure Bluet,minecraft:azure_bluet,minecraft:red_flower,38:3
+,Red Tulip,minecraft:red_tulip,minecraft:red_flower,38:4
+,Orange Tulip,minecraft:orange_tulip,minecraft:red_flower,38:5
+,White Tulip,minecraft:white_tulip,minecraft:red_flower,38:6
+,Pink Tulip,minecraft:pink_tulip,minecraft:red_flower,38:7
+,Oxeye Daisy,minecraft:oxeye_daisy,minecraft:red_flower,38:8
+,Brown Mushroom,minecraft:brown_mushroom,39,
+,Red Mushroom,minecraft:red_mushroom,40,
+,Block of Gold,minecraft:gold_block,41,
+,Block of Iron,minecraft:iron_block,42,
+,Oak Slab,minecraft:oak_slab,minecraft:wooden_slab,126
+,Spruce Slab,minecraft:spruce_slab,minecraft:wooden_slab,126:1
+,Birch Slab,minecraft:birch_slab,minecraft:wooden_slab,126:2
+,Jungle Slab,minecraft:jungle_slab,minecraft:wooden_slab,126:3
+,Acacia Slab,minecraft:acacia_slab,minecraft:wooden_slab,126:4
+,Dark Oak Slab,minecraft:dark_oak_slab,minecraft:wooden_slab,126:5
+,Stone Slab,minecraft:stone_slab,44:2,
+,Sandstone Slab,minecraft:sandstone_slab,minecraft:stone_slab,44:1
+,Petrified Oak Slab,minecraft:petrified_oak_slab,,
+,Cobblestone Slab,minecraft:cobblestone_slab,minecraft:stone_slab,44:3
+,Brick Slab,minecraft:brick_slab,minecraft:stone_slab,44:4
+,Stone Brick Slab,minecraft:stone_brick_slab,minecraft:stone_slab,44:5
+,Nether Brick Slab,minecraft:nether_brick_slab,minecraft:stone_slab,44:6
+,Quartz Slab,minecraft:quartz_slab,minecraft:stone_slab,44:7
+,Red Sandstone Slab,minecraft:red_sandstone_slab,minecraft:stone_slab2,182
+,Purpur Slab,minecraft:purpur_slab,205,
+,Prismarine Slab,minecraft:prismarine_slab,,
+,Prismarine Brick Slab,minecraft:prismarine_brick_slab,,
+,Dark Prismarine Slab,minecraft:dark_prismarine_slab,,
+,Smooth Quartz,minecraft:smooth_quartz,minecraft:double_stone_slab,43:7
+,Smooth Red Sandstone,minecraft:smooth_red_sandstone,,
+,Smooth Sandstone,minecraft:smooth_sandstone,,
+,Smooth Stone,minecraft:smooth_stone,minecraft:double_stone_slab,43:8
+,Bricks,minecraft:bricks,minecraft:brick_block,45
+,TNT,minecraft:tnt,46,
+,Bookshelf,minecraft:bookshelf,47,
+,Mossy Cobblestone,minecraft:mossy_cobblestone,48,
+,Obsidian,minecraft:obsidian,49,
+,Torch,minecraft:torch,50,
+,End Rod,minecraft:end_rod,198,
+,Chorus Plant,minecraft:chorus_plant,199,
+,Chorus Flower,minecraft:chorus_flower,200,
+,Purpur Block,minecraft:purpur_block,201,
+,Purpur Pillar,minecraft:purpur_pillar,202,
+,Purpur Stairs,minecraft:purpur_stairs,203,
+,Spawner,minecraft:spawner,minecraft:mob_spawner,52
+,Oak Stairs,minecraft:oak_stairs,53,
+,Chest,minecraft:chest,54
+,Diamond Ore,minecraft:diamond_ore,56
+,Block of Diamond,minecraft:diamond_block,57
+,Crafting Table,minecraft:crafting_table,58
+,Farmland,minecraft:farmland,minecraft:wheat,60
+,Furnace,minecraft:furnace,61
+,Ladder,minecraft:ladder,65
+,Rail,minecraft:rail,66
+,Cobblestone Stairs,minecraft:cobblestone_stairs,minecraft:stone_stairs,67
+,Lever,minecraft:lever,69
+,Stone Pressure Plate,minecraft:stone_pressure_plate,70
+,Oak Pressure Plate,minecraft:oak_pressure_plate,minecraft:wooden_pressure_plate,72
+,Spruce Pressure Plate,minecraft:spruce_pressure_plate
+,Birch Pressure Plate,minecraft:birch_pressure_plate
+,Jungle Pressure Plate,minecraft:jungle_pressure_plate
+,Acacia Pressure Plate,minecraft:acacia_pressure_plate
+,Dark Oak Pressure Plate,minecraft:dark_oak_pressure_plate
+,Redstone Ore,minecraft:redstone_ore,73
+,Redstone Torch,minecraft:redstone_torch,minecraft:lit_redstone_torch,76
+,Stone Button,minecraft:stone_button,77
+,Snow,minecraft:snow_block,minecraft:snow_layer,78
+,Ice,minecraft:ice,79
+,Snow Block,minecraft:snow_block,minecraft:snow,80
+,Cactus,minecraft:cactus,81
+,Clay,minecraft:clay,337
+,Jukebox,minecraft:jukebox,84
+,Oak Fence,minecraft:oak_fence,minecraft:fence,85
+,Spruce Fence,minecraft:spruce_fence,188
+,Birch Fence,minecraft:birch_fence,189
+,Jungle Fence,minecraft:jungle_fence,190
+,Acacia Fence,minecraft:acacia_fence,192
+,Dark Oak Fence,minecraft:dark_oak_fence,191
+,Pumpkin,minecraft:pumpkin,86
+,Carved Pumpkin,minecraft:carved_pumpkin,minecraft:pumpkin
+,Netherrack,minecraft:netherrack,87
+,Soul Sand,minecraft:soul_sand,88
+,Glowstone,minecraft:glowstone,89
+,Jack o'Lantern,minecraft:jack_o_lantern,minecraft:lit_pumpkin,91
+,Oak Trapdoor,minecraft:oak_trapdoor,minecraft:trapdoor,96
+,Spruce Trapdoor,minecraft:spruce_trapdoor
+,Birch Trapdoor,minecraft:birch_trapdoor
+,Jungle Trapdoor,minecraft:jungle_trapdoor
+,Acacia Trapdoor,minecraft:acacia_trapdoor
+,Dark Oak Trapdoor,minecraft:dark_oak_trapdoor
+,Infested Stone,minecraft:infested_stone,minecraft:monster_egg,97
+,Infested Cobblestone,minecraft:infested_cobblestone,minecraft:monster_egg,97:1
+,Infested Stone Bricks,minecraft:infested_stone_bricks,minecraft:monster_egg,97:2
+,Infested Mossy Stone Bricks,minecraft:infested_mossy_stone_bricks,minecraft:monster_egg,97:3
+,Infested Cracked Stone Bricks,minecraft:infested_cracked_stone_bricks,minecraft:monster_egg,97:4
+,Infested Chiseled Stone Bricks,minecraft:infested_chiseled_stone_bricks,minecraft:monster_egg,97:5
+,Stone Bricks,minecraft:stone_bricks,minecraft:stonebrick,98
+,Mossy Stone Bricks,minecraft:mossy_stone_bricks,minecraft:stonebrick,98:1
+,Cracked Stone Bricks,minecraft:cracked_stone_bricks,minecraft:stonebrick,98:2
+,Chiseled Stone Bricks,minecraft:chiseled_stone_bricks,minecraft:stonebrick,98:3
+,Brown Mushroom Block,minecraft:brown_mushroom_block,99
+,Red Mushroom Block,minecraft:red_mushroom_block,100
+,Mushroom Stem,minecraft:mushroom_stem,minecraft:red_mushroom_block
+,Iron Bars,minecraft:iron_bars,101
+,Glass Pane,minecraft:glass_pane,102
+,Melon,minecraft:melon,minecraft:melon_block,103
+,Vines,minecraft:vine,106
+,Oak Fence Gate,minecraft:oak_fence_gate,minecraft:fence_gate,107
+,Spruce Fence Gate,minecraft:spruce_fence_gate,183
+,Birch Fence Gate,minecraft:birch_fence_gate,184
+,Jungle Fence Gate,minecraft:jungle_fence_gate,185
+,Acacia Fence Gate,minecraft:acacia_fence_gate,187
+,Dark Oak Fence Gate,minecraft:dark_oak_fence_gate,186
+,Brick Stairs,minecraft:brick_stairs,108
+,Stone Brick Stairs,minecraft:stone_brick_stairs,109
+,Mycelium,minecraft:mycelium,110
+,Lily Pad,minecraft:lily_pad,minecraft:waterlily,111
+,Nether Bricks,minecraft:nether_bricks,minecraft:nether_brick,112
+,Nether Brick Fence,minecraft:nether_brick_fence,113
+,Nether Brick Stairs,minecraft:nether_brick_stairs,114
+,Enchanting Table,minecraft:enchanting_table,116
+,End Portal Frame,minecraft:end_portal_frame,120
+,End Stone,minecraft:end_stone,121
+,End Stone Bricks,minecraft:end_stone_bricks,minecraft:end_bricks,206
+,Dragon Egg,minecraft:dragon_egg,122
+,Redstone Lamp,minecraft:redstone_lamp,123
+,Sandstone Stairs,minecraft:sandstone_stairs,128
+,Emerald Ore,minecraft:emerald_ore,129
+,Ender Chest,minecraft:ender_chest,130
+,Tripwire Hook,minecraft:tripwire_hook,131
+,Block of Emerald,minecraft:emerald_block,133
+,Spruce Stairs,minecraft:spruce_stairs,134
+,Birch Stairs,minecraft:birch_stairs,135
+,Jungle Stairs,minecraft:jungle_stairs,136
+,Command Block,minecraft:command_block,137
+,Beacon,minecraft:beacon,138
+,Cobblestone Wall,minecraft:cobblestone_wall,139
+,Mossy Cobblestone Wall,minecraft:mossy_cobblestone_wall,minecraft:cobblestone_wall,139:1
+,Oak Button,minecraft:oak_button,minecraft:wooden_button,143
+,Spruce Button,minecraft:spruce_button
+,Birch Button,minecraft:birch_button
+,Jungle Button,minecraft:jungle_button
+,Acacia Button,minecraft:acacia_button
+,Dark Oak Button,minecraft:dark_oak_button
+,Anvil,minecraft:anvil,145

@@ -1,0 +1,145 @@
+Block_names| a
+Stone| a
+Smooth Stone| a
+Smooth Stone Slab| a
+Stone Bricks| a
+Cracked Stone Bricks| a
+Mossy Stone Bricks| a
+Chiseled Stone Bricks| a
+Cobblestone| a
+Mossy Cobblestone| a
+Granite| a
+Polished Granite| a
+Diorite| a
+Polished Diorite| a
+Andesite| a
+Polished Andesite| a
+Basalt top/bottom| a
+Basalt side| a
+Polished Basalt top/bottom| a
+Polished Basalt side| a
+Smooth Basalt| a
+Blackstone top/bottom| a
+Blackstone side| a
+Polished Blackstone| a
+Chiseled Polished Blackstone| a
+Polished Blackstone Bricks| a
+Cracked Polished Blackstone Bricks| a
+Gilded Blackstone| a
+Deepslate side| a
+Deepslate top bottom| a
+Deepslate Bricks| a
+Deepslate Tiles| a
+Chiseled Deepslate| a
+Calcite| a
+Tuff| a
+Sandstone top| a
+Sandstone side| a
+Sandstone bottom| a
+Cut Sandstone side| a
+Chiseled Sandstone side| a
+Red Sandstone top| a
+Red Sandstone side| a
+Red Sandstone bottom| a
+Cut Red Sandstone side| a
+Chiseled Red Sandstone side| a
+Block of Quartz| a
+Smooth Quartz| a
+Chiseled Quartz Block top/bottom| a
+Chiseled Quartz Block side| a
+Quartz Pillar top/bottom| a
+Quartz Pillar side| a
+Quartz Bricks| a
+Prismarine Bricks| a
+Dark Prismarine| a
+Purpur Block| a
+Purpur Pillar top/bottom| a
+Purpur Pillar side| a
+Netherrack| a
+End Stone| a
+End Stone Bricks| a
+Obsidian| a
+Crying Obsidian| a
+Glowing Obsidian‌[BE only]| a
+Glowstone| a
+Glass| a
+Terracotta| a
+Bricks| a
+Nether Bricks| a
+Cracked Nether Bricks| a
+Chiseled Nether Bricks| a
+Red Nether Bricks| a
+Coal Ore| a
+Copper Ore| a
+Iron Ore| a
+Redstone Ore| a
+Lapis Lazuli Ore| a
+Gold Ore| a
+Diamond Ore| a
+Emerald Ore| a
+Deepslate Iron Ore| a
+Deepslate Gold Ore| a
+Deepslate Redstone Ore| a
+Deepslate Lapis Lazuli Ore| a
+Deepslate Diamond Ore| a
+Deepslate Emerald Ore| a
+Budding Amethyst| a
+Nether Quartz Ore| a
+Nether Gold Ore| a
+Ancient Debris top/bottom| a
+Ancient Debris side| a
+Block of Coal| a
+Block of Copper| a
+Exposed Copper| a
+Weathered Copper| a
+Oxidized Copper| a
+Block of Iron| a
+Block of Redstone| a
+Block of Lapis Lazuli| a
+Block of Gold| a
+Block of Diamond| a
+Block of Emerald| a
+Block of Netherite| a
+Block of Amethyst| a
+Oak Log top/bottom| a
+Oak Log side| a
+Birch Log top/bottom| a
+Birch Log side| a
+Spruce Log top/bottom| a
+Spruce Log side| a
+Jungle Log top/bottom| a
+Jungle Log side| a
+Acacia Log top/bottom| a
+Acacia Log side| a
+Dark Oak Log top/bottom| a
+Dark Oak Log side| a
+Crimson Stem top/bottom‌[JE only]| a
+Crimson Stem top/bottom‌[BE only]| a
+Warped Stem top/bottom‌[JE only]| a
+Warped Stem top/bottom‌[BE only]| a
+Oak Log top/bottom| a
+Oak Log side| a
+Birch Log top/bottom| a
+Birch Log side| a
+Spruce Log top/bottom| a
+Spruce Log side‌[JE only]| a
+Spruce Log side‌[BE only]| a
+Jungle Log top/bottom| a
+Jungle Log side| a
+Acacia Log top/bottom| a
+Acacia Log side| a
+Dark Oak Log top/bottom| a
+Dark Oak Log side‌[JE only]| a
+Dark Oak Log side‌[BE only]| a
+Stripped Crimson Stem top/bottom| a
+Stripped Crimson Stem side| a
+Stripped Warped Stem top/bottom| a
+Stripped Warped Stem side| a
+Oak Planks| a
+Birch Planks| a
+Spruce Planks| a
+Jungle Planks| a
+Acacia Planks| a
+Dark Oak Planks| a
+Crimson Planks| a
+Warped Planks| a
